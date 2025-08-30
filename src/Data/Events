@@ -1,0 +1,9 @@
+const events = [
+  { id: 1, name: "Fake Wedding", date: "SOON" ,place: "Indore"},
+  { id: 2, name: "Fake Reception Party", date: "SOON" ,place: "Indore"},
+  { id: 3, name: "Fake Cocktail Party", date: "SOON" ,place: "Indore"},
+  { id: 4, name: "Dj Party", date: "SOON" ,place: "Indore"},
+  { id: 5, name: "Garba Night", date: "SOON" ,place: "Indore"},
+];
+
+export default events;
